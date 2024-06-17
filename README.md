@@ -1,2 +1,3 @@
-# This project is about displaying what i learned in the foundations course of the odin project:
-## Namely, How to use the terminal to handle files, and how to create basic webpages using html
+# :p
+## This the first project in the odin project
+it displays what i learned in html basics part and also how to use git and github
